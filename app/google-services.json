@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "276499283788",
+    "project_id": "breaktime-4a0b1",
+    "storage_bucket": "breaktime-4a0b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276499283788:android:265b9b301819ecbd1099e9",
+        "android_client_info": {
+          "package_name": "com.example.breaktime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276499283788-rua1hrhug7ogk5oeoc4n9j3saog0epif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.breaktime",
+            "certificate_hash": "deaa799e083f368e7fbb2307a773311c77b4725d"
+          }
+        },
+        {
+          "client_id": "276499283788-lk21i8idp399madl734p1m568orarvg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7SMcPdN3UNn56n-TexJI5kL5KrGNI8PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276499283788-lk21i8idp399madl734p1m568orarvg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
